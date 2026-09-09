@@ -1,13 +1,13 @@
-# Criando sua Aventura
+# 🗺️ Criando sua Aventura
 
-História interativa "Em busca da cidade perdida" com HTML, CSS e JavaScript — projeto da Alura.
+História interativa "Em busca da cidade perdida" com HTML, CSS e JavaScript - projeto da Alura.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Sumário
+## 📑 Sumário
 
 - [Sobre](#sobre)
 - [Como funciona](#como-funciona)
@@ -17,11 +17,11 @@ História interativa "Em busca da cidade perdida" com HTML, CSS e JavaScript —
 - [Licença](#licença)
 - [Autor](#autor)
 
-## Sobre
+## 📖 Sobre
 
 Aventura de escolhas múltiplas: o jogador encontra uma carta antiga e decide entre Rio de Janeiro e Pernambuco, avançando por passos até a cidade perdida no Amazonas. Cada escolha mostra/esconde um `.passo`.
 
-## Como funciona
+## ⚙️ Como funciona
 
 - Cada cena é uma `div.passo` com `id="passo-N"`
 - Botões `.btn-proximo` têm `data-proximo="N"` com o próximo passo
@@ -36,13 +36,13 @@ Exemplo:
 > [!TIP]
 > Para criar um final novo, duplique um bloco `.passo`, dê um novo `id` e aponte um botão para ele.
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - HTML5
 - CSS3 (fonte Bai Jamjuree)
 - JavaScript (navegação por passos)
 
-## Como executar
+## 🚀 Como executar
 
 ```bash
 git clone https://github.com/VictorHFL/criando-sua-aventura.git
@@ -50,7 +50,7 @@ cd criando-sua-aventura
 # abra index.html no navegador
 ```
 
-## Estrutura
+## 📁 Estrutura
 
 ```text
 criando-sua-aventura/
@@ -64,11 +64,11 @@ criando-sua-aventura/
 > [!NOTE]
 > O arquivo de script se chama `script js` (com espaço). Renomeá-lo para `script.js` exige atualizar o `<script>` no HTML.
 
-## Licença
+## 📄 Licença
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
-## Autor
+## 👤 Autor
 
 **VictorHFL**
 
