@@ -15,7 +15,6 @@ História interativa "Em busca da cidade perdida" com HTML, CSS e JavaScript - p
 - [Como executar](#como-executar)
 - [Estrutura](#estrutura)
 - [Licença](#licença)
-- [Autor](#autor)
 
 ## 📖 Sobre
 
@@ -68,9 +67,3 @@ criando-sua-aventura/
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
-## 👤 Autor
-
-**VictorHFL**
-
-- GitHub: [@VictorHFL](https://github.com/VictorHFL)
-- E-mail: yvictorhfl@gmail.com
